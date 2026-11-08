@@ -1,7 +1,7 @@
 # Llanquihue Tour
 
 ## Descripción
-Este proyecto representa informacion de clientes y emppleados de una agencia de turismo mediante un programa creado por Java.
+Este proyecto representa informacion de clientes y empleados de una agencia de turismo mediante un programa creado por Java.
 
 ## Clases principales
 - Persona: Guarda los datos generales de una persona.
